@@ -1,0 +1,30 @@
+.rotulo{
+    font-style: italic;    
+
+}
+
+.form
+{
+    background-color: lightblue;
+    font-weight: bold;
+
+}
+
+.form:hover
+{
+    background-color: white;
+
+}
+
+#NomeCompleto{
+
+    width:11.5%;
+
+}
+
+#Endereco{
+
+    width:17.5%;
+}
+
+
